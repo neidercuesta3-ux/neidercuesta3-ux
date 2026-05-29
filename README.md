@@ -108,7 +108,7 @@ procesos del sistema y cargas de trabajo.
 <img src="https://img.shields.io/badge/Tkinter-blue?style=flat-square" />
 
 
-🔗 <b>Repositorio:</b> (https://github.com/neidercuesta3-ux/simulador-administrador-tareas)
+🔗 <b>Repositorio:</b> https://github.com/neidercuesta3-ux/simulador-administrador-tareas
 </td>
 
 </tr>
