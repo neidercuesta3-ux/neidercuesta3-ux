@@ -13,7 +13,6 @@ mantenimiento y soporte de infraestructuras informáticas.
 </p>
 
 <p align="center">
-
 Interés en desarrollo Backend, Bases de Datos y Arquitectura de Software.
 
 Experiencia en desarrollo de aplicaciones, automatización y análisis de sistemas.
@@ -21,7 +20,6 @@ Experiencia en desarrollo de aplicaciones, automatización y análisis de sistem
 Conocimientos en gestión y optimización de bases de datos relacionales y no relacionales.
 
 Experiencia en administración de sistemas operativos Windows y macOS.
-
 </p>
 
 <br>
@@ -33,25 +31,15 @@ Experiencia en administración de sistemas operativos Windows y macOS.
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
 <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
@@ -85,6 +73,7 @@ visuales y sonoras para el control de espacios.
 <img src="https://img.shields.io/badge/Tkinter-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/ESP32-black?style=flat-square" />
 
+<br><br>
 
 🔗 <b>Repositorio:</b> https://github.com/neidercuesta3-ux/SecureEntry-Control-Aforo-IA
 
@@ -107,8 +96,37 @@ procesos del sistema y cargas de trabajo.
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Tkinter-blue?style=flat-square" />
 
+<br><br>
 
 🔗 <b>Repositorio:</b> https://github.com/neidercuesta3-ux/simulador-administrador-tareas
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🚚 Opercheck IA</h3>
+
+<p>
+Plataforma Enterprise PWA para auditoría y gestión de flotas vehiculares asistida por IA multimodal.
+Convierte inspecciones manuales vulnerables en certificaciones digitales blindadas e inmutables,
+validando daños, piezas mecánicas y niveles de fluidos en tiempo real mediante Gemini Vision y FastAPI.
+</p>
+
+<b>Tecnologías:</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/FastAPI-green?style=flat-square" />
+<img src="https://img.shields.io/badge/TailwindCSS-lightblue?style=flat-square" />
+<img src="https://img.shields.io/badge/Vite-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/VertexAI-orange?style=flat-square" />
+
+<br><br>
+
+🔗 <b>Repositorio:</b> https://github.com/yaircordobaing-debug/AutoProof-Check-IA-version-2
+
 </td>
 
 </tr>
