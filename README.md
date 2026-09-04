@@ -140,7 +140,7 @@ validando daños, piezas mecánicas y niveles de fluidos en tiempo real mediante
 
 <p align="center">
 
-📧 <b>Email:</b> neidercuesta3@gmail.com
+📧 <b>Email:</b> cneider54@hotmail.com
 
 <br>
 
