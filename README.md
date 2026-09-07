@@ -144,7 +144,8 @@ validando daños, piezas mecánicas y niveles de fluidos en tiempo real mediante
 
 <br>
 
-💼 <b>LinkedIn:</b> https://linkedin.com/in/neider-jessid-cuesta-renteria-164b71270
+💼 <b>LinkedIn:</b> www.linkedin.com/in/neider-jessid-cuesta-renteria-689a952a2
+
 
 <br>
 
